@@ -1,5 +1,5 @@
-d 'DEA': Data envelopment analysis
+d 'stpp': Pohar-Perme non-parametric estimate of marginal relative (net) survival and more... Use stpp With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f stpp.ado
+f stpp.sthlp
+f stpp_example.ado
