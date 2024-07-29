@@ -1,6 +1,8 @@
 # stpp
 Pohar-Perme non-parametric estimate of marginal relative (net) survival and more... Use stpp With STATA 18
 
+https://www.youtube.com/watch?v=0wcY8zN-HNM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
